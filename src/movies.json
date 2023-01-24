@@ -1,0 +1,341 @@
+{
+    "movies": [
+        {
+            "title": "Mr & Mrs Smith",
+            "year": 2005,
+            "director": "Doug Liman",
+            "poster_link": "https://m.media-amazon.com/images/M/MV5BMTc5Njg5MzY5NV5BMl5BanBnXkFtZTcwNjg5MzQzMw@@._V1_.jpg"
+        },
+        {
+            "title": "Happy Feet",
+            "year": 2006,
+            "director": "George Miller",
+            "poster_link": "https://m.media-amazon.com/images/M/MV5BODZmYjM5NzEtNmFkNi00Yzg4LWJiZTItNzgwYzZhZTc4Njg2XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg"
+        },
+        {
+            "title": "Goldeneye",
+            "year": 1995,
+            "director": "Martin Campbell",
+            "poster_link": "https://m.media-amazon.com/images/M/MV5BZWY5YzI5YmYtYzE5NC00Nzg1LWJkZTktZmNlYjE1NjE2MmMwXkEyXkFqcGdeQXVyNTU1NTcwOTk@._V1_.jpg"
+        },
+        {
+            "title": "The Dark Knight",
+            "year": 2008,
+            "director": "Christopher Nolan",
+            "poster_link": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_.jpg"
+        },
+        {
+            "title": "My Big Fat Greek Wedding",
+            "year": 2002,
+            "director": "Joel Zwick",
+            "poster_link": "https://m.media-amazon.com/images/M/MV5BMTk5MzA4NzMxM15BMl5BanBnXkFtZTYwNzI5NjE3._V1_.jpg"
+        },
+        {
+            "title": "WALL-E",
+            "year": 2008,
+            "director": "Andrew Stanton",
+            "poster_link": "https://m.media-amazon.com/images/M/MV5BMjExMTg5OTU0NF5BMl5BanBnXkFtZTcwMjMxMzMzMw@@._V1_.jpg"
+        },
+        {
+            "title": "Sherlock Holmes",
+            "year": 2009,
+            "director": "Guy Ritchie",
+            "poster_link": "https://m.media-amazon.com/images/M/MV5BMTgwNzEyMjAwMV5BMl5BanBnXkFtZTcwNTg3MTMwMg@@._V1_.jpg"
+        },
+        {
+            "title": "How to Train Your Dragon",
+            "year": 2010,
+            "director": "Dean DeBlois, Chris Sanders",
+            "poster_link": "https://m.media-amazon.com/images/M/MV5BZDEyN2NhMjgtMjdhNi00MmNlLWE5YTgtZGE4MzNjMTRlMGEwXkEyXkFqcGdeQXVyNTMxMjgxMzA@._V1_.jpg"
+        },
+        {
+            "title": "The Fast and the Furious",
+            "year": 2001,
+            "director": "Rob Cohen",
+            "poster_link": "https://m.media-amazon.com/images/M/MV5BMTQxMTAwMDQ3Nl5BMl5BanBnXkFtZTcwNTkxNzEyMQ@@._V1_.jpg"
+        },
+        {
+            "title": "Wreck-It Ralph",
+            "year": 2012,
+            "director": "Rich Moore",
+            "poster_link": "https://m.media-amazon.com/images/M/MV5BNzMxNTExOTYyMF5BMl5BanBnXkFtZTcwMzEyMTI0Nw@@._V1_.jpg"
+        },
+        {
+            "title": "X-Men",
+            "year": 2000,
+            "director": "Bryan Singer",
+            "poster_link": "https://m.media-amazon.com/images/M/MV5BMTU4ODQ4NzkwOF5BMl5BanBnXkFtZTYwNjk5NDg2._V1_.jpg"
+        },
+        {
+            "title": "Star Wars: A New Hope",
+            "year": 1977,
+            "director": "George Lucas",
+            "poster_link": ""
+        },
+        {
+            "title": "Star Wars: The Empire Strikes Back",
+            "year": 1980,
+            "director": "Irvin Kershner",
+            "poster_link": "https://m.media-amazon.com/images/M/MV5BYmU1NDRjNDgtMzhiMi00NjZmLTg5NGItZDNiZjU5NTU4OTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg"
+        },
+        {
+            "title": "Star Wars: Return of the Jedi",
+            "year": 1983,
+            "director": "Richard Marquand",
+            "poster_link": "https://m.media-amazon.com/images/M/MV5BOWZlMjFiYzgtMTUzNC00Y2IzLTk1NTMtZmNhMTczNTk0ODk1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg"
+        },
+        {
+            "title": "Deadpool",
+            "year": 2016,
+            "director": "Tim Miller",
+            "poster_link": "https://m.media-amazon.com/images/M/MV5BMjQyODg5Njc4N15BMl5BanBnXkFtZTgwMzExMjE3NzE@._V1_.jpg"
+        },
+        {
+            "title": "Detective Pikachu",
+            "year": 2019,
+            "director": "Rob Letterman",
+            "poster_link": "https://m.media-amazon.com/images/M/MV5BOTVhZjQxZDItNmVlNS00Njg5LWEwNjAtNjZkYzg3MjZjOTM3XkEyXkFqcGdeQXVyNTgwNzIyNzg@._V1_.jpg"
+        },
+        {
+            "title": "The Pink Panther",
+            "year": 2006,
+            "director": "Shawn Levy",
+        },
+        {
+            "title": "Top Gun",
+            "year": 1986,
+            "director": "Tony Scott",
+            "poster_link": "https://m.media-amazon.com/images/M/MV5BNzQxNDJhN2UtNWRlNi00YzEwLWE0YmUtNTA2ZWIwODRiNTcxXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg"
+        },
+        {
+            "title": "Top Gun: Maverick",
+            "year": 2020,
+            "director": "Joseph Kosinski",
+            "poster_link": "https://m.media-amazon.com/images/M/MV5BMmEzNDkxYjQtZTc0MC00YTVmLThmYTAtM2I5NzBmNmNlMzI1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg"
+        },
+        {
+            "title": "Avatar",
+            "year": 2009,
+            "director": "James Cameron",
+            "poster_link": "https://m.media-amazon.com/images/M/MV5BMTYwOTEwNjAzMl5BMl5BanBnXkFtZTcwODc5MTUwMw@@._V1_.jpg"
+        },
+        {
+            "title": "Avatar: The Way of Water",
+            "year": 2022,
+            "director": "James Cameron",
+            "poster_link": ""
+        },
+        {
+            "title": "The Count of Monte Cristo",
+            "year": 2002,
+            "director": "Kevin Reynolds",
+            "poster_link": "https://m.media-amazon.com/images/M/MV5BMTUxNTg4MzEyN15BMl5BanBnXkFtZTYwNjYwMzY3._V1_.jpg"
+        },
+        {
+            "title": "Space Jam",
+            "year": 1996,
+            "director": "Joe Pytka",
+            "poster_link": "https://m.media-amazon.com/images/M/MV5BMjA5MTYzMzQ5M15BMl5BanBnXkFtZTYwNjYxNjc3._V1_.jpg"
+        },
+        {
+            "title": "Godzilla",
+            "year": 1998,
+            "director": "Roland Emmerich",
+            "poster_link": "https://m.media-amazon.com/images/M/MV5BMTU5MzU3MjU5Ml5BMl5BanBnXkFtZTgwMjE2MjEyMjE@._V1_.jpg"
+        },
+        {
+            "title": "Meet the Parents",
+            "year": 2000,
+            "director": "Jay Roach",
+            "poster_link": "https://m.media-amazon.com/images/M/MV5BMTk3Nzc3NzE3NF5BMl5BanBnXkFtZTcwNjYxMzA0Mw@@._V1_.jpg"
+        },
+        {
+            "title": "Bad Boys",
+            "year": 1995,
+            "director": "Michael Bay",
+            "poster_link": "https://m.media-amazon.com/images/M/MV5BMzgxYmFkZmItMzVhMC00MjI5LWE3ZjMtNjI2M2E2NjJhNjQwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg"
+        },
+        {
+            "title": "Bad Boys II",
+            "year": 2003,
+            "director": "Michael Bay",
+            "poster_link": ""
+        },
+        {
+            "title": "Big Momma's House",
+            "year": 2000,
+            "director": "Raja Gosnell",
+            "poster_link": "https://m.media-amazon.com/images/M/MV5BMTcxNjM3NzY3Ml5BMl5BanBnXkFtZTcwMjU1NzYyMQ@@._V1_.jpg"
+        },
+        {
+            "title": "Willy Wonka and the Chocolate Factory",
+            "year": 1971,
+            "director": "Mel Stuart",
+            "poster_link": "https://m.media-amazon.com/images/M/MV5BMjAxMjQyNzMzNF5BMl5BanBnXkFtZTgwMzQ2NjI1MDE@._V1_.jpg"
+        },
+        {
+            "title": "Mamma Mia!",
+            "year": 2008,
+            "director": "Phyllida Lloyd",
+            "poster_link": "https://m.media-amazon.com/images/M/MV5BMTcyNzg4NjI1MV5BMl5BanBnXkFtZTcwNjQ2NzU0Mw@@._V1_.jpg"
+        },
+        {
+            "title": "Casino Royale",
+            "year": 2006,
+            "director": "Martin Campbell",
+            "poster_link": "https://m.media-amazon.com/images/M/MV5BMDI5ZWJhOWItMGEwYS00YjQ3LWI2NjMtNDRkM2JhYzBhZGQ3XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_.jpg"
+        },
+        {
+            "title": "Mission: Impossible",
+            "year": 1996,
+            "director": "Brian De Palma",
+            "poster_link": "https://m.media-amazon.com/images/M/MV5BMjE4MTQ4MzQwN15BMl5BanBnXkFtZTgwMjI4MzMxMDE@._V1_.jpg"
+        },
+        {
+            "title": "Mrs. Doubtfire",
+            "year": 1993,
+            "director": "Chris Columbus",
+            "poster_link": ""
+        },
+        {
+            "title": "Catch Me If You Can",
+            "year": 2002,
+            "director": "Steven Spielberg",
+            "poster_link": "https://m.media-amazon.com/images/M/MV5BMTY5MjM1OTAyOV5BMl5BanBnXkFtZTYwNTkxMjg3._V1_.jpg"
+        },
+        {
+            "title": "Blade Runner",
+            "year": 1982,
+            "director": "Ridley Scott",
+            "poster_link": "https://m.media-amazon.com/images/M/MV5BMzFkM2EwYzItNzA1ZS00NjY1LWJjNjMtNzQ3YjY3YjEwYzFmXkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_.jpg"
+        },
+        {
+            "title": "Miss Congeniality",
+            "year": 2000,
+            "director": "Donald Petrie",
+            "poster_link": "https://m.media-amazon.com/images/M/MV5BMTgwNzM5NjE5OF5BMl5BanBnXkFtZTYwNjg3Njg3._V1_.jpg"
+        },
+        {
+            "title": "Something's Gotta Give",
+            "year": 2003,
+            "director": "Nancy Meyers",
+            "poster_link": "https://m.media-amazon.com/images/M/MV5BZjk5ZDgxNjktNmZjMS00Nzk1LWJhZjMtMmIzZjQxZmE2YTQwXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg"
+        },
+        {
+            "title": "The Producers",
+            "year": 2005,
+            "director": "Susan Stroman",
+            "poster_link": "https://m.media-amazon.com/images/M/MV5BMTg3NjM3OTg3NV5BMl5BanBnXkFtZTcwNjIzMzQzMw@@._V1_.jpg"
+        },
+        {
+            "title": "Happy Gilmore",
+            "year": 1996,
+            "director": "Dennis Dugan",
+            "poster_link": "https://m.media-amazon.com/images/M/MV5BZTJhMjdiMjktNjRlYy00M2QzLWJhNjctMmM4NjQ2N2ZkOGM3XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg"
+        },
+        {
+            "title": "Supercop",
+            "year": 1992,
+            "director": "Stanley Tong",
+            "poster":""
+        },
+        {
+            "title": "Kung Fu Panda",
+            "year": 2008,
+            "director": "Mark Osborne, John Stevenson",
+            "poster_link": "https://m.media-amazon.com/images/M/MV5BMTk1MjE1Nzg2NV5BMl5BanBnXkFtZTcwMjQ3Mjc3MQ@@._V1_.jpg"
+        },
+        {
+            "title": "Shanghai Noon",
+            "year": 2000,
+            "director": "Tom Dey",
+            "poster_link": "https://m.media-amazon.com/images/M/MV5BMTc4MzQ4MjE4Nl5BMl5BanBnXkFtZTYwNzE4NjI4._V1_.jpg"
+        },
+        {
+            "title": "Cars",
+            "year": 2006,
+            "director": "John Lasseter, Joe Ranft",
+            "poster_link": "https://m.media-amazon.com/images/M/MV5BMTE5MzYwMjkwMV5BMl5BanBnXkFtZTYwNDc3NTc2._V1_.jpg"
+        },
+        {
+            "title": "The Grand Budapest Hotel",
+            "year": 2014,
+            "director": "Wes Anderson",
+            "poster_link": "https://m.media-amazon.com/images/M/MV5BMzM5NjUxOTEyMl5BMl5BanBnXkFtZTgwNjEyMDM0MDE@._V1_.jpg"
+        },
+        {
+            "title": "Everything Everywhere All At Once",
+            "year": 2022,
+            "director": "",
+            "poster_link": ""
+        },
+        {
+            "title": "Death on the Nile",
+            "year": 2022,
+            "director": "Kenneth Branagh",
+            "poster_link": ""
+        },
+        {
+            "title": "Ace Ventura: Pet Detective",
+            "year": 1994,
+            "director": "Tom Shadyac",
+            "poster_link": "https://m.media-amazon.com/images/M/MV5BZjZlYzFhYjEtYzRmNS00NzJkLWJhZjAtYzE2YjJlMzZiYjk3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg"
+        },
+        {
+            "title": "Amsterdam",
+            "year": 2022,
+            "director": "",
+            "poster_link": ""
+        },
+        {
+            "title": "Head of State",
+            "year": 2003,
+            "director": "Chris Rock",
+            "poster_link": "https://m.media-amazon.com/images/M/MV5BMTcwNjU2Nzc2M15BMl5BanBnXkFtZTYwNzg1MjE3._V1_.jpg"
+        },
+        {
+            "title": "Ocean's Eleven",
+            "year": 2001,
+            "director": "Steven Soderbergh",
+            "poster_link": ""
+        },
+        {
+            "title": "Ocean's Twelve",
+            "year": 2004,
+            "director": "Steven Soderbergh",
+            "poster_link": "https://m.media-amazon.com/images/M/MV5BMTY5NjI5Mzc5MV5BMl5BanBnXkFtZTcwNzcwMjg3NA@@._V1_.jpg"
+        },
+        {
+            "title": "Ocean's Thirteen",
+            "year": 2007,
+            "director": "Steven Soderbergh",
+            "poster_link": "https://m.media-amazon.com/images/M/MV5BMTU4Nzc4NjI3N15BMl5BanBnXkFtZTcwMzcwMjg3NA@@._V1_.jpg"
+        },
+        {
+            "title": "The Shawshank Redemption",
+            "year": 1994,
+            "director": "Frank Darabont",
+            "poster_link": "https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg"
+        },
+        {
+            "title": "The Godfather",
+            "year": 1972,
+            "director": "Francis Ford Coppola",
+            "poster_link": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg"
+        },
+        {
+            "title": "The Godfather: Part II",
+            "year": 1974,
+            "director": "Francis Ford Coppola",
+            "poster_link": "https://m.media-amazon.com/images/M/MV5BMWMwMGQzZTItY2JlNC00OWZiLWIyMDctNDk2ZDQ2YjRjMWQ0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg"
+        }
+    ]
+}
+
+
+
+
+
+
+
+
